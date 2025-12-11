@@ -65,6 +65,7 @@ Simply open:
 calculator.html
 ```
 in any web browser.
+
 ---
 ### **🎮 How to Use**
 
@@ -79,7 +80,7 @@ Press AC to reset
 Press = to calculate the result
 
 ---
-📘 Learning Outcome
+# **📘 Learning Outcome**
 
 Through this task, I learned and practiced:
 
