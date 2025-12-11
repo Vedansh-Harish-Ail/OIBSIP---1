@@ -34,7 +34,7 @@ A beginner-friendly project demonstrating core web development skills.
 ---
 
 ## 📸 Screenshots
-*(Add your screenshots here)*
+screenshots here....
 
 
 
