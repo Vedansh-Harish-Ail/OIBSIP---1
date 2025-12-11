@@ -60,7 +60,7 @@ cd <your-repository>
 ```
 
 
-3. Run the project
+### **3. Run the project**
 
 Simply open:
 ```sh
