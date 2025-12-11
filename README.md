@@ -135,11 +135,3 @@ It motivates me to continue building and learning!
 ✔ Portfolio showcase  
 
 ---
-
-If you want, I can also create:
-
-📌 A **GitHub Preview Banner**  
-📌 A **Project Logo**  
-📌 A **Markdown Badges section** (Technologies, Status, License)  
-
-Just say **“Add badges”** or **“Add banner”**.
