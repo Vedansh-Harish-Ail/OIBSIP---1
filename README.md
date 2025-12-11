@@ -49,21 +49,26 @@ No setup required — just download and open the file.
 
 ### **1. Clone the repository**
 
+```sh
 git clone https://github.com/<your-username>/<your-repository>.git
+```
 
-###2. Navigate into the project
+
+### **2. Navigate into the project**
+```sh
 cd <your-repository>
+```
+
 
 3. Run the project
 
 Simply open:
-
-index.html
-
-
+```sh
+calculator.html
+```
 in any web browser.
 
-🎮 How to Use
+### **🎮 How to Use**
 
 Click the numeric buttons to input values
 
