@@ -65,7 +65,7 @@ Simply open:
 calculator.html
 ```
 in any web browser.
-
+---
 ### **🎮 How to Use**
 
 Click the numeric buttons to input values
@@ -78,6 +78,7 @@ Press AC to reset
 
 Press = to calculate the result
 
+---
 📘 Learning Outcome
 
 Through this task, I learned and practiced:
@@ -92,10 +93,14 @@ Event handling
 
 Building logic-based UI components
 
+---
+
 👨‍💻 Author
 
 Vedansh Harish Ail
 Oasis Infobyte Web Development Intern
+
+---
 
 ⭐ Support
 
