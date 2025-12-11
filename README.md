@@ -41,7 +41,9 @@ A beginner-friendly project demonstrating core web development skills.
 
 /
 ├── index.html # Main project file
+
 ├── README.md # Documentation
+
 └── assets/ # (Optional) screenshots/images
 
 
