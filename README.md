@@ -38,14 +38,9 @@ A beginner-friendly project demonstrating core web development skills.
 
 ## 📂 Project Structure
 
-
-/
 ├── index.html # Main project file
 
 ├── README.md # Documentation
-
-└── assets/ # (Optional) screenshots/images
-
 
 ---
 
