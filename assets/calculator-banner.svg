@@ -1,1 +1,19 @@
 
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200">
+  <defs>
+    <linearGradient id="grad" x1="0" x2="1">
+      <stop offset="0" stop-color="#1c1c1e"/>
+      <stop offset="1" stop-color="#2c2c2e"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="200" fill="url(#grad)" rx="20"/>
+  
+  <text x="50%" y="45%" fill="white" font-size="42" font-family="Arial, Helvetica" font-weight="700" text-anchor="middle">
+    Modern Calculator
+  </text>
+
+  <text x="50%" y="65%" fill="#cccccc" font-size="20" font-family="Arial, Helvetica" text-anchor="middle">
+    OIBSIP — Web Development Task 1
+  </text>
+</svg>
