@@ -6,6 +6,11 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
+<p align="center">
+  <img src="./assets/calculator-banner.svg" width="100%" alt="Calculator Banner">
+</p>
+
+
 # 🧮 Calculator | OIBSIP Web Development Task-1
 
 A modern and responsive calculator built using **HTML**, **CSS**, and **JavaScript** as part of the **Oasis Infobyte Web Development Internship**.  
