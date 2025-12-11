@@ -1,5 +1,3 @@
-FINAL PROFESSIONAL README.md
-(Perfect for your OIBSIP – Web Development Task-1 Calculator Project)
 # 🧮 Calculator | OIBSIP Web Development Task-1
 
 A modern and responsive calculator built using **HTML**, **CSS**, and **JavaScript** as part of the **Oasis Infobyte Web Development Internship**.  
