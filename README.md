@@ -1,5 +1,4 @@
 
-<!-- Badges -->
 ![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
@@ -7,7 +6,11 @@
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
 <p align="center">
-  <img src="./assets/calculator-banner.svg" width="100%" alt="Calculator Banner">
+  <img src="./assets/calculator-logo.svg" width="90" />
+</p>
+
+<p align="center">
+  <img src="./assets/calculator-banner.svg" width="100%" />
 </p>
 
 
