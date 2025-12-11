@@ -1,3 +1,11 @@
+
+<!-- Badges -->
+![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-blue)
+
 # 🧮 Calculator | OIBSIP Web Development Task-1
 
 A modern and responsive calculator built using **HTML**, **CSS**, and **JavaScript** as part of the **Oasis Infobyte Web Development Internship**.  
@@ -80,7 +88,7 @@ Press AC to reset
 Press = to calculate the result
 
 ---
-# **📘 Learning Outcome**
+## **📘 Learning Outcome**
 
 Through this task, I learned and practiced:
 
@@ -96,14 +104,14 @@ Building logic-based UI components
 
 ---
 
-👨‍💻 Author
+## **👨‍💻 Author**
 
 Vedansh Harish Ail
 Oasis Infobyte Web Development Intern
 
 ---
 
-⭐ Support
+## **⭐ Support**
 
 If you found this project helpful, please consider giving the repo a star ⭐
 It motivates me to continue building and learning!
