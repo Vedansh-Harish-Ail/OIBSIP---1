@@ -48,10 +48,10 @@ A beginner-friendly project demonstrating core web development skills.
 No setup required — just download and open the file.
 
 ### **1. Clone the repository**
-```sh
+
 git clone https://github.com/<your-username>/<your-repository>.git
 
-2. Navigate into the project
+###2. Navigate into the project
 cd <your-repository>
 
 3. Run the project
